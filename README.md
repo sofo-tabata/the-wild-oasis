@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-For Login credentials contact me.
+Built with React Query and Supabase.
