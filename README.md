@@ -21,7 +21,7 @@ Beyond basic management tasks, users can delve into advanced functionalities suc
 
 ## Getting Started
 
-![animated-chock-coding-c78f6elj32sfoi8q](https://github.com/sofo-tabata/the-wild-oasis/assets/135848019/36cf410e-0957-4806-a4b6-5b8538cdf0d6)
+![blaa](https://github.com/sofo-tabata/the-wild-oasis/assets/135848019/c8666c53-e15d-4c66-bf31-1f64a9a7c439)
 
 1. First of all you need to clone app repository from github:
    
@@ -64,3 +64,6 @@ npm run dev
 + React Portal
 + useState Hook
 + The Compound Component Pattern
++ React Hot Toast
++ Recharts
++ React Icons
