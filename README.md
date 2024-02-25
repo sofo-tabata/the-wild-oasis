@@ -21,7 +21,7 @@ Beyond basic management tasks, users can delve into advanced functionalities suc
 
 ## Getting Started
 
-![blaa](https://github.com/sofo-tabata/the-wild-oasis/assets/135848019/c8666c53-e15d-4c66-bf31-1f64a9a7c439)
+![6b0039ec6d675b764f9b9c013450fbcb](https://github.com/sofo-tabata/the-wild-oasis/assets/135848019/2f349eb7-b459-489b-9dee-e70b27f70eb0)
 
 1. First of all you need to clone app repository from github:
    
